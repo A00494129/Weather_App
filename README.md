@@ -44,8 +44,7 @@ A mobile weather application built with React Native (Expo), Open-Meteo API, and
 
 ## Testing
 Tested on:
-- Android Emulator
-- Expo Go
+- Expo Go (Samsung S21)
 
 ## Tech Stack
 - React Native (Expo SDK 54)
